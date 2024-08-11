@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Kian!
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Title, e.g., Software Developer, Data Scientist] who loves [mention what you love, e.g., coding, building projects, solving problems]. Here, you'll find some of the projects I've been working on, as well as other things that interest me.
+Welcome to my GitHub profile! I'm a passionate in game development , website development and more!. Here, you'll find some of the projects I've been working on, as well as other things that interest me.
 
 ## 🔧 Technologies & Tools
 
