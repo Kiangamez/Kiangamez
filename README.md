@@ -30,9 +30,12 @@ Welcome to my GitHub profile! I'm a passionate in game development , website dev
 - **[Project 3 Name](link to project)**: A brief description of the project and what problem it solves.
 
 ## 🎓 Education
-
-- Currently in college studing computer science
-
+### College
+- Digital Games Production
+- IT
+- Business
+### University
+Hopefully :)
 
 ## 📫 How to reach me
 
